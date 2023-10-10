@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.container {
+    margin: 50px auto;
+    max-width: 400px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    padding: 50px 50px;
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#clickButton {
+    /* Larger size for the "Click Me" button */
+    padding: 100px 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+/* Custom styles for smaller buttons */
+#setClicksButton,
+#toggleCounterButton,
+#randomizeButton,
+#uploadButton {
+    padding: 8px 16px; /* Adjust the padding to make them smaller */
+}
+
+/* Ensure the image fits the screen */
+#imageContainer {
+    display: none;
+    max-width: 100%;
+    max-height: 100%;
+    overflow: hidden;
+}
+
+#uploadedImage {
+    max-width: 100%;
+    max-height: 100%;
+}
