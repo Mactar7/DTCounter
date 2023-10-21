@@ -26,6 +26,11 @@ button {
     margin-top: 20px;
     margin-bottom: 0px;
 }
+.disable-dbl-tap-zoom {
+  touch-action: manipulation;
+    <clickButton class="disable-dbl-tap-zoom">button with disabled double-tap zoom</clickButton>
+}
+
 
 /* Custom styles for smaller buttons */
 #setClicksButton,
