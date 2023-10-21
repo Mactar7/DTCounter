@@ -22,9 +22,9 @@ button {
 
 #clickButton {
     /* Larger size for the "Click Me" button */
-    padding: 100px 150px;
+    padding: 180px 100px;
     margin-top: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 0px;
 }
 
 /* Custom styles for smaller buttons */
