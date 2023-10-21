@@ -12,7 +12,7 @@ body {
 }
 
 button {
-    padding: 100px 150px;
+    padding: 50px 50px;
     background-color: #007BFF;
     color: #fff;
     border: none;
@@ -22,7 +22,7 @@ button {
 
 #clickButton {
     /* Larger size for the "Click Me" button */
-    padding: 100px 100px;
+    padding: 100px 150px;
     margin-top: 20px;
     margin-bottom: 20px;
 }
