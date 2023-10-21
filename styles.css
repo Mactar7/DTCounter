@@ -4,11 +4,11 @@ body {
 }
 
 .container {
-    margin: 50px auto;
+    margin: 0px auto;
     max-width: 400px;
-    padding: 20px;
+    padding: 0px;
     border: 1px solid #ccc;
-    border-radius: 5px;
+    border-radius: 0px;
 }
 
 button {
