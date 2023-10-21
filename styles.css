@@ -28,7 +28,6 @@ button {
 }
 .disable-dbl-tap-zoom {
   touch-action: manipulation;
-    <clickButton class="disable-dbl-tap-zoom">button with disabled double-tap zoom</clickButton>
 }
 
 
